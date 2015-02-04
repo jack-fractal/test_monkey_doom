@@ -52,3 +52,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Renpy stuff
+*.rpy[codb]
+*.rpy.bak
+renpy_test_thingy/log.txt
+renpy_test_thingy/tmp/
